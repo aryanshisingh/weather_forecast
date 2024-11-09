@@ -1,0 +1,46 @@
+.app {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+}
+
+.search-box {
+    margin: 20px;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    width: 250px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.weather-info {
+    margin-top: 20px;
+    background: #f3f3f3;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    display: inline-block;
+    text-align: center;
+}
+
+.weather-info img {
+    width: 100px;
+}
+
+h3 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+}
